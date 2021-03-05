@@ -1,6 +1,6 @@
 ## PROMODORRO
 
-## Author
+## Authors
 
 [David-Mumo](https://github.com/Msyoka)
 [Carol-Kang'ara](https://github.com/carol-kangara)
